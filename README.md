@@ -14,4 +14,5 @@ https://git-scm.com/book/en/v2
 This is sprint 0, group task1.
 T-15, MET 6th Semester.
 
-CONFLICT TEXT
+CONFLICT TEXT2
+
