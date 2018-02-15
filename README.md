@@ -18,3 +18,5 @@ This is sprint 0, group task1.
 T-15, MET 6th Semester.
 
 CONFLICT TEXT2
+
+Test conflict
