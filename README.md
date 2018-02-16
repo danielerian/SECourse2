@@ -19,8 +19,5 @@ T-15, MET 6th Semester.
 
 CONFLICT TEXT2
 
-<<<<<<< HEAD
-Test conflict in here
-=======
+
 Test conflict
->>>>>>> dfce5369aa6d3a51043e6df02764efe9f4c9ef6b
