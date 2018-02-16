@@ -25,4 +25,8 @@ CONFLICT TEXT2
 
 Test conflict
 
+<<<<<<< HEAD
 test test test
+=======
+test conflict2
+>>>>>>> 8c9d4000bd8b38c61fbcc6c6f79e089255261198
